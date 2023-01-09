@@ -1,0 +1,17 @@
+#Here you can configue the Change Message text when you change your Status
+English_StatusChangeMessage: "Your Status has been Changed to"
+German_StatusChangeMessage: "Dein Neuer Status ist"
+
+#Here you can Change the language [English,German]
+language: "English"
+
+#Here you can Change the Error Messages
+ErrorCode: "&cSystemInternalError: "
+English_ErrorMessage: "&7Please Enter a correct Present"
+
+German_ErrorMessage: "&7Bitte benutze einen richtigen Preset"
+
+#Here you can Activate/Deactivate the Custom Status Feature
+Custom_Status: "off"
+English_Custom_StatusErrorMessage: "Please put in a Status"
+German_Custom_StatusErrorMessage: "Bitte gebe einen Status an"

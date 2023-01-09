@@ -1,0 +1,9 @@
+name: Statuschange
+version: '${project.version}'
+main: vxrp.me.statuschange.Statuschange
+api-version: 1.19
+authors: [ Vxrpenter ]
+description: This Plugin  allows to change your status
+commands:
+  Status:
+    description: This Command allows you to change your Status ingame
