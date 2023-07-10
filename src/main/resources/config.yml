@@ -6,7 +6,7 @@ German_StatusChangeMessage: "Dein Neuer Status ist"
 language: "English"
 
 #Here you can Change the Error Messages
-ErrorCode: "&cSystemInternalError: "
+ErrorCode: "&cSystemError: "
 English_ErrorMessage: "&7Please Enter a correct Present"
 
 German_ErrorMessage: "&7Bitte benutze einen richtigen Preset"
