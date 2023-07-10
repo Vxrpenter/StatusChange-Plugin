@@ -7,7 +7,7 @@ language: "English"
 
 #Here you can Change the Error Messages
 ErrorCode: "&cSystemError: "
-English_ErrorMessage: "&7Please Enter a correct Present"
+English_ErrorMessage: "&7Please Enter a correct Preset"
 
 German_ErrorMessage: "&7Bitte benutze einen richtigen Preset"
 
