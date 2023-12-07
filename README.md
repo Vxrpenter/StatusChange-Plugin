@@ -4,7 +4,7 @@ You can change settings and text in the Conifg (colorcodes are not working right
 
 Setup Guide:
 1. Install the last Release onto your computer.
-2. Download the Paper.jar https://papermc.io/downloads
+2. Download the Paper.jar [https://papermc.io/downloads](https://papermc.io/downloads/all)
 3. Create a Server with the Paper.jar
 4. Now put the plugin into the Plugins Folder.
 -Your done have fun with the plugin
