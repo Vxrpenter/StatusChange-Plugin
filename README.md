@@ -1,5 +1,5 @@
 # StatusChange-Plugin
-<div align="center">
+<div>
   <a href="https://modrinth.com/plugin/statuschange">
     <img src="https://img.shields.io/badge/%20Modrinth-e?style=for-the-badge&logo=modrinth&color=gray" alt="Modrinth Badge"/>
   </a>
