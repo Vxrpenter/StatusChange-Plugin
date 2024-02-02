@@ -1,9 +1,6 @@
 # StatusChange-Plugin
-<div>
-  <a href="https://modrinth.com/plugin/statuschange">
-    <img src="https://img.shields.io/badge/%20Modrinth-e?style=for-the-badge&logo=modrinth&color=gray" alt="Modrinth Badge"/>
-  </a>
-</div>
+[<img alt="paper" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/paper_vector.svg">](https://papermc.io/)
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/plugin/statuschange)
 
 This is a Plugin that allows you to set your Status as a Suffix behind your Name.
 You can change settings and text in the Conifg (colorcodes are not working right now)
