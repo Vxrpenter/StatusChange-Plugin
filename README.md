@@ -1,3 +1,9 @@
+<div align="center">
+  <img alt="logo" src="https://github.com/Vxrpenter/StatusChange-Plugin/assets/110356385/c84d35ca-976c-4e73-adc2-067c6cd2f322">
+</div>
+
+---
+
 # StatusChange-Plugin
 [<img alt="paper" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/paper_vector.svg">](https://papermc.io/)
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/plugin/statuschange)
